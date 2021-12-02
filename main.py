@@ -9,7 +9,7 @@ import sort_functions
 from utils import *
 
 
-time_mode = True
+time_mode = False
 
 
 list_unsorted = [i for i in range(100)]
